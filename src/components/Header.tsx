@@ -24,7 +24,7 @@ const navItems = [
   { label: 'Home', href: '/' },
   { label: 'About Us', href: '/about-us' },
   { label: 'Services', href: '/services' },
-  { label: 'Doctors', href: '/doctors' },
+  
   { label: 'Testimonials', href: '/testimonials' },
   { label: 'Booking', href: '/booking' },
   { label: 'Contact', href: '/contact' },
