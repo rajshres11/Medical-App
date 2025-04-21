@@ -1,4 +1,4 @@
-import { Box, Typography, Container, Stack, Card, CardContent } from '@mui/material';
+import {  Typography, Container, Stack, Card, CardContent } from '@mui/material';
 
 const values = [
   {
